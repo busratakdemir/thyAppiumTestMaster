@@ -1,0 +1,8 @@
+<testsuites>
+	<testsuite id="1" tests="1" failures="0" package="/Users/testinium/Desktop/getirMobileProject/specs/android/thySecenerio.spec" time="55.985" timestamp="2021-06-03T23:36:42" name="Specification Heading" errors="0" hostname="testiniumsmbp2">
+		<properties></properties>
+		<testcase classname="Specification Heading" name="Case:1 THY İST/ESB UÇUŞ ARA" time="55.985"></testcase>
+		<system-out></system-out>
+		<system-err></system-err>
+	</testsuite>
+</testsuites>

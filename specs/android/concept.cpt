@@ -1,0 +1,35 @@
+
+# UÇUŞ SEÇİS ALANINA İLERLE
+* "KONUM_İZİN_VER_BUTONU" Butonuna tıkla
+* "ÇEREZLERİ_KABUL_ET_BUTONU" Butonuna tıkla
+
+# Bilet al butonuna tıklanır
+* "BİLET" Butonuna tıkla
+
+# Tek yön uçuş seçilir
+* "TEK_YÖN_SEÇİM" Butonuna tıkla
+
+# Yön bilgisi olarak SAW to ESB Seçilir
+* "NEREYE_ALANI_SECIM" Butonuna tıkla
+* "HAVALİMANI_ARAMA_ALANI" textine yazdır "ESB"
+* "ESB_SONUC_SECİM" Butonuna tıkla
+
+# Tarih bilgisi günün tarihinden 2 gün sonraya seçilir
+* "GİDİŞ_TARİHİ_SEÇİM" Butonuna tıkla
+* "GİDİŞ_TARİHİ_GÜN_SEÇİM" Butonuna tıkla
+
+# Tamam butonuna tıklanır
+* "OKEY_BUTTON" Butonuna tıkla
+
+# Yetişkin bilgisi 2 olarak seçilir
+* "YETİŞKİN_ARTI_BUTONU" Butonuna tıkla
+
+# Kontrol sağlanır ve ekonomik uçuş seçilir
+* Sayfada "LİSTE_SATIR_SONUC_KONTROL" alanı var mı ? Yoksa "Liste doğru şekilde görüntülenemedi."
+* "EKONOMİK_SEÇİM" Butonuna tıkla
+
+# Devam butonuna tıklanır.
+* "DEVAM_BUTONU" Butonuna tıkla
+
+# Uçuş ara butonuna tıklanır.
+* "UÇUŞ_SEÇİM" Butonuna tıkla

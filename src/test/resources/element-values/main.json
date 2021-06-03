@@ -1,0 +1,93 @@
+[
+  {
+    "key": "KONUM_İZİN_VER_BUTONU",
+    "androidValue": "com.android.packageinstaller:id/permission_allow_button",
+    "androidType": "id"
+  },
+  {
+    "key": "ÇEREZLERİ_KABUL_ET_BUTONU",
+    "androidValue": "com.turkishairlines.mobile:id/frPrivacy_btnAccept",
+    "androidType": "id"
+  },
+  {
+    "key": "BİLET",
+    "androidValue": "com.turkishairlines.mobile:id/acMain_btnBooking",
+    "androidType": "id"
+  },
+
+  {
+    "key": "NEREYE_ALANI_SECIM",
+    "androidValue": "com.turkishairlines.mobile:id/frDashboard_tvToCode",
+    "androidType": "id"
+  },
+
+  {
+    "key": "HAVALİMANI_ARAMA_ALANI",
+    "androidValue": "com.turkishairlines.mobile:id/frAirportSelection_etSearch",
+    "androidType": "id"
+  },
+
+
+  {
+    "key": "ESB_SONUC_SECİM",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ListView/android.widget.RelativeLayout[2]/android.widget.TextView[2]",
+    "androidType": "xpath"
+  },
+
+  {
+    "key": "GİDİŞ_TARİHİ_SEÇİM",
+    "androidValue": "com.turkishairlines.mobile:id/frDashboard_tvDepartureTitle",
+    "androidType": "id"
+  },
+  {
+    "key": "GİDİŞ_TARİHİ_GÜN_SEÇİM",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ListView/android.widget.LinearLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.FrameLayout[7]/android.widget.TextView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "TEK_YÖN_SEÇİM",
+    "androidValue": "com.turkishairlines.mobile:id/frDashboard_tvOneWay",
+    "androidType": "id"
+  },
+
+  {
+    "key": "OKEY_BUTTON",
+    "androidValue": "com.turkishairlines.mobile:id/frDashboard_btnDone",
+    "androidType": "id"
+  },
+  {
+    "key": "YETİŞKİN_ARTI_BUTONU",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout[1]/android.widget.RelativeLayout/android.widget.LinearLayout[2]/android.widget.ImageView[2]",
+    "androidType": "xpath"
+  },
+
+  {
+    "key": "ARA_BUTONU",
+    "androidValue": "com.turkishairlines.mobile:id/frDashboard_btnSearch",
+    "androidType": "id"
+  },
+
+  {
+    "key": "LİSTE_SATIR_SONUC_KONTROL",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView[2]/android.view.ViewGroup[1]/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.View",
+    "androidType": "xpath"
+  },
+
+
+  {
+    "key": "UÇUŞ_SEÇİM",
+      "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView[2]/android.view.ViewGroup[1]/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.View",
+    "androidType": "xpath"
+  },
+  {
+    "key": "EKONOMİK_SEÇİM",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView[2]/android.view.ViewGroup/android.widget.FrameLayout[2]/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.widget.FrameLayout/android.view.ViewGroup",
+    "androidType": "xpath"
+  },
+  {
+    "key": "DEVAM_BUTONU",
+    "androidValue": "com.turkishairlines.mobile:id/frFlightSearch_btnContinue",
+    "androidType": "id"
+  }
+
+  ]
